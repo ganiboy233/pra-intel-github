@@ -1,2 +1,2 @@
 # pra-intel-github
-repository pertamaku dari pra-intrel-github
+repository pertamaku dari pra-intel-github
